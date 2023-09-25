@@ -1,0 +1,15 @@
+C:\Users\2022102020022\source\repos\provapooo\provapooo\bin\Debug\net6.0\provapooo.exe
+C:\Users\2022102020022\source\repos\provapooo\provapooo\bin\Debug\net6.0\provapooo.deps.json
+C:\Users\2022102020022\source\repos\provapooo\provapooo\bin\Debug\net6.0\provapooo.runtimeconfig.json
+C:\Users\2022102020022\source\repos\provapooo\provapooo\bin\Debug\net6.0\provapooo.dll
+C:\Users\2022102020022\source\repos\provapooo\provapooo\bin\Debug\net6.0\provapooo.pdb
+C:\Users\2022102020022\source\repos\provapooo\provapooo\obj\Debug\net6.0\provapooo.csproj.AssemblyReference.cache
+C:\Users\2022102020022\source\repos\provapooo\provapooo\obj\Debug\net6.0\provapooo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020022\source\repos\provapooo\provapooo\obj\Debug\net6.0\provapooo.AssemblyInfoInputs.cache
+C:\Users\2022102020022\source\repos\provapooo\provapooo\obj\Debug\net6.0\provapooo.AssemblyInfo.cs
+C:\Users\2022102020022\source\repos\provapooo\provapooo\obj\Debug\net6.0\provapooo.csproj.CoreCompileInputs.cache
+C:\Users\2022102020022\source\repos\provapooo\provapooo\obj\Debug\net6.0\provapooo.dll
+C:\Users\2022102020022\source\repos\provapooo\provapooo\obj\Debug\net6.0\refint\provapooo.dll
+C:\Users\2022102020022\source\repos\provapooo\provapooo\obj\Debug\net6.0\provapooo.pdb
+C:\Users\2022102020022\source\repos\provapooo\provapooo\obj\Debug\net6.0\provapooo.genruntimeconfig.cache
+C:\Users\2022102020022\source\repos\provapooo\provapooo\obj\Debug\net6.0\ref\provapooo.dll
